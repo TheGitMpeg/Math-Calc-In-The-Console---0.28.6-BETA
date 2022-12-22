@@ -7,3 +7,5 @@ If you don't have these apps, you can neither open correctly this file nor modif
 ONLY PEOPLE THAT HAVE A KNOWLEDGE OF THIS LANGUAGE CAN MODIFY IT.
 NOTE: For this moment, this application ONLY WORKS IN WINDOWS.
 You can do any pull request, make a new fork for my program and/or contribute in that Python application. BUT OFFENSIVE COMMENTS ARE DENIED AND REPORTED.
+If you do a pre-release or release (if you think your modification is a final version), you're very welcome.
+For this file, I ONLY ACCEPT PYTHON CODES. You can also add or delete modules.
