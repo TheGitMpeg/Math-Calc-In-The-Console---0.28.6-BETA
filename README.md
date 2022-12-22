@@ -28,4 +28,4 @@ Version:
 15. 0.52 Beta
 16. 0.52.1 Beta
 
-Note: Please work to the version 0.28.7 Beta only at the .py file at your computer and then upload that Python file called "Math_Calc_In_TheConsole_0.28.7B.py" to the releases.
+Note: Please work to the version 0.28.7 Beta only at the .py file at your computer and then upload that Python file called "Math_Calc_In_TheConsole_0.28.7B.py" to the repository and then to the releases.
