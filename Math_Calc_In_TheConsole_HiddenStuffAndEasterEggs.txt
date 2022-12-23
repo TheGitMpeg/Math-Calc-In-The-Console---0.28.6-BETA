@@ -57,7 +57,7 @@ Prints: "January 19, 2038" is the last date that 32-bit systems support. After t
 6. ForceAction.GlitchTheApplication.StopWorking.ActionInput
 The application restarts the AppHome() definition.
 7. ForceAction.GlitchTheApplication.StopWorkingBy.InfiniteAppHomeLoops
-The application makes its contents flicker.
+The application makes its contents flicker. If you are sensitive to flickering effects, don't do this at your PC.
 8. ForceAction.GlitchTheApplication.StopWorkingBy.InfiniteQuickOperationsLoops
 The application doesn't do anything. But if you're in an operation, it crashes directly.
 9. ForceAction.GlitchTheApplication.StopWorkingBy.InfiniteQuickOperationsLoops.InfiniteTrueFalse
