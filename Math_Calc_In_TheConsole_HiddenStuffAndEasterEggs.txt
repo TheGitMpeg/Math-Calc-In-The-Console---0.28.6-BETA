@@ -65,4 +65,4 @@ The Action Input stops working.
 10. ForceAction.GlitchTheApplication.StopWorkingBy.GeneratingInfiniteLoopsWithBlankSpaces
 It generates an infinite loop of blank spaces until you kill its process.
 11. ForceAction.QuickRestart
-It does a quick restart.
+It does a quick restart. It has bugs.
